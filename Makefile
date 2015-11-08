@@ -1,5 +1,5 @@
 
 install:
-	cp handshaker.sh /bin/handshaker
-	chmod +x /bin/handshaker
+	cp BH-Athan /bin/BH-Athan
+	chmod +x /bin/BH-Athan
 
