@@ -1,5 +1,3 @@
-
 install:
-	cp BH-Athan /bin/BH-Athan
-	chmod +x /bin/BH-Athan
-
+	cp BH-Vuln-Scanner /usr/bin/BH-Vuln-Scanner
+	chmod +x /usr/bin/BH-Vuln-Scanner
