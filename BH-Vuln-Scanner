@@ -79,7 +79,7 @@ echo
 
 update(){
 upb
-ver=$(curl http://fencebythefoot.ca/version.txt)
+ver=$(curl https://raw.githubusercontent.com/Black-Hawk-97/BH-Vuln-Scanner/master/version.txt)
 echo "$ver" > /tmp/BH-Vuln-Scanner-Version.txt
 cd /usr/bin/BH-Vuln-Scanner/
 rm -rf list.txt
