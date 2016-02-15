@@ -1,0 +1,2 @@
+/wp-content/plugins/tierra-billboard-manager/tierra-billboard-playlist.php http://adf.ly/1WyugU SQL-Injection
+/wp-content/plugins/clikstats/ck.php http://adf.ly/1Wz2qc Open-Redirect
