@@ -10,3 +10,12 @@
 /wp-content/themes/infocus http://0day.today/exploit/22352 LFD
 /wp-content/themes/modular http://0day.today/exploit/22351 LFD
 /wp-content/themes/method  http://0day.today/exploit/22350 LFD
+/wp-content/themes/incrediblewp/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/cuckootap/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/ultimatum/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/medicate/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/Centum/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/Centum/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/Avada/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/striking_r/ https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/beach_apollo/ https://www.exploit-db.com/exploits/34511/ LFD
