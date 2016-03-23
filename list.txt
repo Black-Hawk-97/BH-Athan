@@ -1,30 +1,15 @@
-/wp-content/plugins/tierra-billboard-manager/tierra-billboard-playlist.php http://adf.ly/1WyugU SQL-Injection
-/wp-content/plugins/clikstats/ck.php http://adf.ly/1Wz2qc Open-Redirect
-/wp-content/plugins/formcraft http://adf.ly/1X4vY1 File-Upload
-/wp-content/plugins/newsletter-pro/do.php http://adf.ly/1X4w4J Open-Redirect
-/wp-content/themes/smallbiz/palette/index.php http://adf.ly/1X4wHb File-Uploads
-/wp-content/plugins/instalinker/includes/instalinker-admin-preview.php http://adf.ly/1X4wVm XSS
-/wp-admin/admin-ajax.php?action=umm_switch_action http://adf.ly/1X4x4I UMM-Plugin
-/wp-admin/admin-ajax.php?action=umm_switch_action http://adf.ly/1X4xVK SQLI
-/wp-admin/edit-comments.php?page=wpcommentrating http://adf.ly/1X4xsB XSS
-/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4y6i SQLI
-/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4yDu XSS
-/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4z4S SQLI
-/wp-content/plugins/tubepress/common/popup.php http://adf.ly/1X4zLn XSS
-/wp-content/plugins/wp-noexternallinks/goto.php http://adf.ly/1X50Hi Open-Redirect
-/wp-admin/admin-ajax.php?action=commentator_social_signin&provider=facebook http://adf.ly/1X551U XSS
-/wp-content/plugins/wp-js-external-link-info/redirect.php http://adf.ly/1X556o Open-Redirect
-/wp-content/plugins/wordpress-feed-statistics/feed-statistics.php http://adf.ly/1X55Cv Open-Redirect-B64
-/wp-content/plugins/AzonPop/files/view/showpopup.php http://adf.ly/1X55Vb SQLI
-/wp-content/themes/stvp/jwplayer.php http://adf.ly/1X55fN XSS
-/wp-content/plugins/revslider/ http://adf.ly/1X55zY XSS-RFU-Dow
-/wp-admin/admin-ajax.php?action=revslider_show_image http://adf.ly/1X569u XSS
-/wp-admin/admin.php?page=quotes-and-tips.php http://adf.ly/1X56SB XSS
-/wp-admin/admin.php?page=portfolio.php http://adf.ly/1X5723 XSS
-/wp-content/plugins/tierra-billboard-manager/tierra-billboard-playlist.php http://adf.ly/1WyugU SQLI
-/wp-content/uploads/slideshow-gallery http://adf.ly/1X5UXI RFU
-/wp-content/plugins/revslider/ http://adf.ly/1X5Uk8 RFU-Execute
-/wp-content/plugins/wpshop/ http://adf.ly/1X5V1x RFU
-/wp-content/plugins/inboundio-marketing/ http://adf.ly/1X5VHr RFU
-/wp-content/plugins/category-grid-view-gallery/includes/timthumb.php http://adf.ly/1X5VXj RFU
 /wp-content/plugins/auto-attachments http://adf.ly/1X5VXj RFU
+/wp-content/themes/manbiz2 https://www.exploit-db.com/exploits/34511/ LFD
+/wp-content/themes/awake http://0day.today/exploit/22359 LFD
+/wp-content/themes/dejavu  http://0day.today/exploit/22358 LFD
+/wp-content/themes/echelon http://0day.today/exploit/22356 LFD
+/wp-content/themes/construct http://0day.today/exploit/22357 LFD
+/wp-content/themes/elegance http://0day.today/exploit/22355 LFD
+/wp-content/themes/fusion http://0day.today/exploit/22354 LFD
+/wp-content/themes/myriad http://0day.today/exploit/22353 LFD
+/wp-content/themes/infocus http://0day.today/exploit/22352 LFD
+/wp-content/themes/modular http://0day.today/exploit/22351 LFD
+/wp-content/themes/method  http://0day.today/exploit/22350 LFD
+
+
+
