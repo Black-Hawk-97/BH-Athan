@@ -21,3 +21,7 @@
 /wp-content/themes/beach_apollo/ https://www.exploit-db.com/exploits/34511/ LFD
 /product/index.php?item_one=1 https://cxsecurity.com/issue/WLB-2016030118 SQLI
 /index.php?option=com_easy_youtube_gallery&view=videos&mycategory=0%27&defaultvideo=9&Itemid=752 https://cxsecurity.com/issue/WLB-2016030119 SQLI
+/wp-content/plugins/brandfolder/ https://cxsecurity.com/issue/WLB-2016030120 RFI&LFI
+/dharma-booking/frontend/ajax/gateways/proccess.php https://cxsecurity.com/issue/WLB-2016030121 RFI&LFI
+/wp-content/plugins/hb-audio-gallery-lite/ https://cxsecurity.com/issue/WLB-2016030123 LFD
+/mdocs-posts/ https://cxsecurity.com/issue/WLB-2016030122 LFD
