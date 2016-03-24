@@ -20,3 +20,4 @@
 /wp-content/themes/striking_r/ https://www.exploit-db.com/exploits/34511/ LFD
 /wp-content/themes/beach_apollo/ https://www.exploit-db.com/exploits/34511/ LFD
 /product/index.php?item_one=1 https://cxsecurity.com/issue/WLB-2016030118 SQLI
+/index.php?option=com_easy_youtube_gallery&view=videos&mycategory=0%27&defaultvideo=9&Itemid=752 https://cxsecurity.com/issue/WLB-2016030119 SQLI
