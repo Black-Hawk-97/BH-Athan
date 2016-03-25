@@ -1,3 +1,4 @@
+/wp-content/plugins/player/settings.php www.youtube.com/watch?v=i8DVX-gobdM SQL-Injection
 /wp-content/plugins/auto-attachments http://adf.ly/1X5VXj RFU
 /wp-content/themes/manbiz2 https://www.exploit-db.com/exploits/34511/ LFD
 /wp-content/themes/awake http://0day.today/exploit/22359 LFD
