@@ -26,3 +26,4 @@
 /wp-content/plugins/hb-audio-gallery-lite/ https://cxsecurity.com/issue/WLB-2016030123 LFD
 /mdocs-posts/ https://cxsecurity.com/issue/WLB-2016030122 LFD
 /index.php?option=com_flexicontact https://www.exploit-db.com/exploits/12185/ LFI
+/wp-content/plugins/formcraft/ https://cxsecurity.com/issue/WLB-2016020136 Remote-File-Upload
