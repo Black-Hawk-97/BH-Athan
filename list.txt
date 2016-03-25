@@ -27,3 +27,4 @@
 /mdocs-posts/ https://cxsecurity.com/issue/WLB-2016030122 LFD
 /index.php?option=com_flexicontact https://www.exploit-db.com/exploits/12185/ LFI
 /wp-content/plugins/formcraft/ https://cxsecurity.com/issue/WLB-2016020136 Remote-File-Upload
+/index.php?option=com_formmaker /index.php?option=com_formmaker&view=formmaker&id=14%27&Itemid=932 SQL-Injection
