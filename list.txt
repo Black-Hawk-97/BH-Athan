@@ -57,3 +57,4 @@
 /wp-content/themes/yvora/ http://0day.today/exploit/22660 Add-Addministrator
 /wp-content/themes/sodales http://0day.today/exploit/22660 Add-Addministrator
 /wp-content/plugins/wpmarketplace/ http://goo.gl/JV03dE Add-Admin
+/index.php?option=com_cckjseblod https://ghostbin.com/paste/ktzmq Config-Download
