@@ -59,3 +59,4 @@
 /wp-content/plugins/wpmarketplace/ http://goo.gl/JV03dE Add-Admin
 /index.php?option=com_cckjseblod https://ghostbin.com/paste/ktzmq Config-Download
 /mdocs-posts/ https://ghostbin.com/paste/zqax5 File-Download
+/wp-content/plugins/revslider/temp/update_extract/ https://ghostbin.com/paste/ghoqg Remote-Upload-File
