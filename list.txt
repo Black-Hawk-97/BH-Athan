@@ -60,3 +60,4 @@
 /index.php?option=com_cckjseblod https://ghostbin.com/paste/ktzmq Config-Download
 /mdocs-posts/ https://ghostbin.com/paste/zqax5 File-Download
 /wp-content/plugins/revslider/temp/update_extract/ https://ghostbin.com/paste/ghoqg Remote-Upload-File
+/wp-content/plugins/hb-audio-gallery-lite/gallery/audio-download.php https://cxsecurity.com/issue/WLB-2016030123 File-Download
