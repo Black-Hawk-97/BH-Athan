@@ -62,3 +62,4 @@
 /wp-content/plugins/revslider/temp/update_extract/ https://ghostbin.com/paste/ghoqg Remote-Upload-File
 /wp-content/plugins/hb-audio-gallery-lite/gallery/audio-download.php https://cxsecurity.com/issue/WLB-2016030123 File-Download
 /gbaddentry.php http://iedb.ir/exploits-333.html Remote-File-Upload
+/admincp/index.php Exploit-With-NoRedirect Admin-Authorize
