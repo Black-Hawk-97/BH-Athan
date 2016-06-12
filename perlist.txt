@@ -100,7 +100,7 @@ com_simpleimageupload	http://adf.ly/1ZTTMF	File-Upload-Vulnerability	Joomla
 com_informations	http://adf.ly/1ZTTS6	SQL-Injection	Joomla
 com_memorix	http://adf.ly/1ZTTW0	SQL-Injection	Joomla
 com_realestatemanager	http://adf.ly/1ZTTmM	SQL-Injection	Joomla
-/dharma-booking/frontend/ajax/gateways/proccess.php	http://adf.ly/1ZTTyv	Local-File-Inclusion	Wordpress
+/dharma-booking/frontend/ajax/gateways/process.php	http://adf.ly/1ZTTyv	Local-File-Inclusion	Wordpress
 /wp-content/plugins/brandfolder	http://adf.ly/1ZTUCR	RFI/LFI	Wordpress
 /wp-content/plugins/photocart-link/	http://adf.ly/1ZTUIk	Local-File-Inclusion	Wordpress
 /wp-content/plugins/imdb-widget	http://adf.ly/1ZTUU9	Local-File-Inclusion	Wordpress
